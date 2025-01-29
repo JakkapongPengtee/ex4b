@@ -1,4 +1,4 @@
-var content = 
+var content = carousel-item
 [{"id":1,"name":"Phi Phi Islands","desc":"Koh Phi Phi or Phi Phi Islands are located in the middle of the Andaman sea, 42 km away from Amphoe Mueang. It is a part of Nopharat Thara Beach – Phi Phi Islands national park which contains 2 big islands – Koh Phi Phi Don and Koh Phi Phi Le, and 4 smaller islands nearby – Koh Yung, Koh Mai Phai, Koh Pida Nok and Koh Pida Nai."},
 {"id":2,"name":"Sukhothai Historical Park","desc":"Sukhothai Historical Park location's is at the opposite of Ramkhamhaeng National museum. There a lot of interesting place inside this area. Wat Maha That. This temple is a center of the historical park. Inside the temple is the grand pagoda that surround by another 8 pagodas as if they are a lotus."},
 {"id":3,"name":"Ko Ta Pu","desc":"Ko Khao Phing Kan is an island in Thailand, in Phang Nga Bay northeast of Phuket. About 40 metres (130 ft) from the shores of Khao Phing Kan lies a 20-metre (66 ft) tall islet called Ko Ta Pu"},
